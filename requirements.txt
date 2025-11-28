@@ -1,8 +1,60 @@
-streamlit
-pandas
-numpy
-scikit-learn
-xgboost
-lightgbm
-matplotlib
-shap
+# Core Data Science & ML Libraries
+numpy==1.24.3
+pandas==2.0.3
+scikit-learn==1.3.0
+
+# Gradient Boosting Models
+xgboost==2.0.3
+lightgbm==4.1.1
+
+# Hyperparameter Optimization
+optuna==3.14.0
+
+# Statistical Analysis
+scipy==1.11.2
+statsmodels==0.14.0
+
+# Data Visualization
+matplotlib==3.8.0
+seaborn==0.13.0
+plotly==5.17.0
+
+# Jupyter & Notebooks
+jupyter==1.0.0
+notebook==7.0.4
+ipython==8.15.0
+
+# Model Evaluation & Metrics
+imbalanced-learn==0.11.0
+
+# Web Framework (for MVP/Deployment)
+streamlit==1.28.1
+flask==3.0.0
+
+# Data Handling & Processing
+openpyxl==3.1.2
+python-dotenv==1.0.0
+
+# API & Web Scraping
+requests==2.31.0
+beautifulsoup4==4.12.2
+
+# Database (Oracle)
+cx-Oracle==8.3.0
+
+# Utilities
+tqdm==4.66.1
+python-dateutil==2.8.2
+
+# Development & Testing
+pytest==7.4.2
+black==23.10.0
+flake8==6.1.0
+
+# Google Cloud & Colab Support
+google-colab==1.0.0
+google-cloud-storage==2.10.0
+
+# Additional ML Tools
+catboost==1.2.2
+shap==0.43.0
